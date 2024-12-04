@@ -1,0 +1,26 @@
+.parent{
+    width: 40%;
+    height: 400px;
+    background-color: cadetblue;
+    border: 1px solid black;
+    position: absolute;
+    
+}
+
+.child{
+    width: 30%;
+    height: 200px;
+    background-color: burlywood;
+    border: 1px solid black;
+    position: relative;
+    left: 70%;
+}
+
+.fixed{
+    width: 50%;
+    height: 200px;
+    background-color: brown;
+    border: 1px solid black;
+    position: fixed;
+    left: 75%;
+}

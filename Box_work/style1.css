@@ -1,0 +1,20 @@
+.box{
+    border:solid black 4px;
+}
+.box1{
+    background-color: cadetblue;
+    width: 80%;
+    height:400px
+}
+
+.box2{
+    background-color: burlywood;
+    width:50%;
+    height: 200px;
+}
+
+.box3{
+    background-color: blanchedalmond;
+    width: 40%;
+    height: 100px;
+}
